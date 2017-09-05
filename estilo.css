@@ -3,12 +3,11 @@ body{
   font-size: 100%;
   /*font-family: 'PT Serif', serif;*/
   font-family: antonio;
-  font-weight:400;
-  color:#f00;
-  background:#ff0;
+  font-weight:700;
+  color:#2eff38;
+  background:#f90024;
   background-position: right top;
-  background-image: url('https://t09.deviantart.net/mrtmCVjdBJQob1GC4xPzuAwdVmE=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/20d7/th/pre/i/2012/213/c/e/piolin_by_aime_faby-d59fvwi.png')
-
+  background-image: url('https://vignette3.wikia.nocookie.net/barney/images/c/cb/Barney_personajes_barney.png/revision/latest?cb=20151223224703')
 }
 
 a{color:#000; text-decoration: none; border-bottom:1px dotted #ccc;}
